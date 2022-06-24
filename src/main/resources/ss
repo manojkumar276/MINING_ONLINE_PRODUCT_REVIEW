@@ -1,0 +1,151 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+[32m :: Spring Boot :: [39m              [2m (v2.4.2)[0;39m
+
+[2m2021-05-26 17:49:08.212[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[           main][0;39m [36mr.OnlineProductReviewAnalysisApplication[0;39m [2m:[0;39m Starting OnlineProductReviewAnalysisApplication using Java 15.0.2 on Dineshs-MacBook-Pro.local with PID 53155 (/Users/dinesh/Documents/Manoj_Project/onlineProductReviewAnalysis/target/classes started by dinesh in /Users/dinesh/Documents/Manoj_Project/onlineProductReviewAnalysis)
+[2m2021-05-26 17:49:08.239[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[           main][0;39m [36mr.OnlineProductReviewAnalysisApplication[0;39m [2m:[0;39m No active profile set, falling back to default profiles: default
+[2m2021-05-26 17:49:09.581[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9090 (http)
+[2m2021-05-26 17:49:09.600[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.apache.catalina.core.StandardService  [0;39m [2m:[0;39m Starting service [Tomcat]
+[2m2021-05-26 17:49:09.600[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[           main][0;39m [36morg.apache.catalina.core.StandardEngine [0;39m [2m:[0;39m Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2m2021-05-26 17:49:09.719[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m Initializing Spring embedded WebApplicationContext
+[2m2021-05-26 17:49:09.719[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[           main][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 1379 ms
+[2m2021-05-26 17:49:10.053[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.s.s.concurrent.ThreadPoolTaskExecutor [0;39m [2m:[0;39m Initializing ExecutorService 'applicationTaskExecutor'
+[2m2021-05-26 17:49:10.403[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9090 (http) with context path ''
+[2m2021-05-26 17:49:10.438[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[           main][0;39m [36mr.OnlineProductReviewAnalysisApplication[0;39m [2m:[0;39m Started OnlineProductReviewAnalysisApplication in 2.869 seconds (JVM running for 4.502)
+[2m2021-05-26 17:49:15.269[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[nio-9090-exec-2][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2m2021-05-26 17:49:15.269[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[nio-9090-exec-2][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2021-05-26 17:49:15.269[0;39m [32m INFO[0;39m [35m53155[0;39m [2m---[0;39m [2m[nio-9090-exec-2][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 0 ms
+mouse
+Amazon.in : mouse
+****************************
+HP X1000 Wired Mouse (Black/Grey)
+/HP-X1000-Wired-Mouse-Black/dp/B009VCGPSY/ref=sr_1_1?dchild=1&keywords=mouse&qid=1622031555&sr=8-1#customerReviews
+4.3
+349.0
+****************************
+****************************
+Zebronics Zeb-Transformer-M Optical USB Gaming Mouse with LED Effect(Black)
+/Zebronics-Zeb-Transformer-M-Optical-Gaming-Effect/dp/B0819HZPXL/ref=sr_1_2?dchild=1&keywords=mouse&qid=1622031555&sr=8-2#customerReviews
+4.3
+424.0
+****************************
+****************************
+Logitech B170 Wireless Mouse, 2.4 GHz with USB Nano Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous, PC/Mac/Laptop - Black
+/Logitech-B170-Wireless-Mouse-Black/dp/B01J0XWYKQ/ref=sr_1_3?dchild=1&keywords=mouse&qid=1622031555&smid=A14CZOWI0VEHLG&sr=8-3#customerReviews
+4.3
+619.0
+****************************
+****************************
+Logitech M90 Wired USB Mouse, 1000 DPI Optical Tracking, Ambidextrous PC/Mac/Laptop - Black
+/Logitech-M90-Mouse-Dark-Grey/dp/B003D8ZT0C/ref=sr_1_4?dchild=1&keywords=mouse&qid=1622031555&sr=8-4#customerReviews
+4.4
+349.0
+****************************
+****************************
+Redgear A-15 Wired Gaming Mouse with RGB, Semi-Honeycomb Design and Upto 6400 dpi for Windows PC Gamers.
+/Redgear-Gaming-Semi-Honeycomb-Windows-Gamers/dp/B08CHZ3ZQ7/ref=sr_1_5?dchild=1&keywords=mouse&qid=1622031555&sr=8-5#customerReviews
+4.3
+499.0
+****************************
+
+****************************
+Lenovo 300 Wired Plug & Play USB Mouse, High Resolution 1600 DPI Optical Sensor, 3-Button Design with clickable Scroll Wheel, Ambidextrous, Ergonomic Mouse for Comfortable All-Day Grip (GX30M39704)
+/Lenovo-GX30M39704-300-USB-Mouse/dp/B073BRXPZX/ref=sr_1_9?dchild=1&keywords=mouse&qid=1622031555&sr=8-9#customerReviews
+4.4
+289.0
+****************************
+****************************
+Zinq Technologies 818W 2.4 Ghz Wireless Mouse with 1600DPI for Laptop and Desktop with 2xAAA Duracell Batteries Included (Black)
+/Zinq-Technologies-Wireless-1600DPI-Desktop/dp/B08CT9Z6BQ/ref=sr_1_10?dchild=1&keywords=mouse&qid=1622031555&sr=8-10#customerReviews
+3.6
+298.0
+****************************
+****************************
+Zinq Technologies 1070 LED Backlight 6 Button USB Gaming Mouse with 3200DPI, 1.5 Metre Nylon Braided Cable, Ergonomic Design (Black)
+/Zinq-Technologies-Backlight-Button-Braided/dp/B07WTHJGLH/ref=sr_1_11?dchild=1&keywords=mouse&qid=1622031555&sr=8-11#customerReviews
+4.1
+449.0
+****************************
+****************************
+ZEBRONICS Zeb-Dash Plus 2.4 GHz Wireless Mouse with USB Nano Receiver, 4 Buttons, Power Saving Mode, for PC/Mac/Laptops (Black)
+/ZEBRONICS-Zeb-Dash-Wireless-Receiver-Buttons/dp/B08YDFX7Y1/ref=sr_1_12?dchild=1&keywords=mouse&qid=1622031555&sr=8-12#customerReviews
+3.3
+399.0
+****************************
+****************************
+iBall Free Go G50 Feather-Light Wireless Optical Mouse with Wide Compatibility, Black
+/iBall-G50-Feather-Light-Wireless-Compatibility/dp/B07TM5ZVVF/ref=sr_1_13?dchild=1&keywords=mouse&qid=1622031555&sr=8-13#customerReviews
+4.0
+451.0
+****************************
+****************************
+Redgear A-10 Wired Gaming Mouse with LED, Lightweight, Durable and DPI Upto 2400 for Windows PC Gamers.
+/Redgear-Gaming-Mouse-Upto-2400/dp/B08372ZPVS/ref=sr_1_14?dchild=1&keywords=mouse&qid=1622031555&sr=8-14#customerReviews
+4.3
+349.0
+****************************
+****************************
+HP 200 Wireless Mouse (Black)
+/HP-200-Wireless-Mouse-Black/dp/B06Y34RQ6Y/ref=sr_1_15?dchild=1&keywords=mouse&qid=1622031555&sr=8-15#customerReviews
+4.3
+699.0
+****************************
+****************************
+Portronics Toad 12 POR-986 Wireless 2.4G Optical Mouse with Ergonomic Design, USB Receiver for Notebook, Laptop, Computer, MacBook, Windows, MacOS, (Blue)
+/Portronics-Wireless-Ergonomic-Receiver-Notebook/dp/B08219FXD7/ref=sr_1_16?dchild=1&keywords=mouse&qid=1622031555&sr=8-16#customerReviews
+4.1
+349.0
+****************************
+
+https://www.amazon.in/Logitech-Silent-Wireless-Mouse-Charcoal/dp/B01M72LILF/ref=sr_1_6?dchild=1&keywords=mouse&qid=1622031555&sr=8-6#customerReviews
+
+/Portronics-Wireless-Ergonomic-Receiver-Notebook/dp/B08219FXD7/ref=sr_1_16?dchild=1&keywords=mouse&qid=1622031708#customerReviews
+
+
+****************************
+Logitech M221 Wireless Mouse, Silent Buttons, 2.4 GHz with USB Mini Receiver, 1000 DPI Optical Tracking, 18-Month Battery Life, Ambidextrous PC/Mac/Laptop - Charcoal Grey
+/Logitech-Silent-Wireless-Mouse-Charcoal/dp/B01M72LILF/ref=sr_1_6?dchild=1&keywords=mouse&qid=1622031555&sr=8-6#customerReviews
+4.5
+799.0
+Probably the cheapest silent mouse from Logitech, won't work with Unifying Receiver
+Quite small and shaky buttons
+Good overall, but Scroll Wheel not silent
+MADE IN CHINA
+BEST Budget Mouse (Silent)
+**NOT anymore ** A great mouse
+Budget Friendly Silent Mouse!
+Stealth in your hands
+****************************
+****************************
+Dell MS116 1000DPI USB Wired Optical Mouse
+/Dell-MS116-1000DPI-Wired-Optical/dp/B01HJI0FS2/ref=sr_1_7?dchild=1&keywords=mouse&qid=1622031555&sr=8-7#customerReviews
+4.4
+309.0
+Super comfortable and long lasting mouse
+Simple and good
+Genuine Dell mouse
+Not working
+Dell MS116 1000DPI USB Wired Optical Mouse - I could sniff the quality 😊
+Most Affordable & durable mouse ever in this price category
+Great brands, great service
+Best for the budget!
+****************************
+****************************
+Zebronics Wired Keyboard and Mouse Combo with 104 Keys and a USB Mouse with 1200 DPI - JUDWAA 750
+/Zebronics-Zeb-JUDWAA-750-Wired-Keyboard/dp/B07KR5P3YD/ref=sr_1_8?dchild=1&keywords=mouse&qid=1622031555&sr=8-8#customerReviews
+3.8
+355.0
+Waste keyboard
+Very nice product and good price....
+As usual, best and reasonable in price.
+Good basic product
+Product Is Good and Made in India
+Good product
+Happy
+nice
+****************************
